@@ -18,6 +18,10 @@ You can run the app locally on your PC. Just follow these steps:
    git clone https://github.com/PranitThombare/Object_detection_application.git
    cd Object_detection_application
 
+2. Run the Command in Terminal:
+   ```bash
+   python app.py
+
 ## Requirements
 
 Make sure you have the following installed:
