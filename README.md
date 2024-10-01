@@ -11,7 +11,12 @@ This project is a web-based application that allows users to upload an image and
 
 ## Demo
 
-You can try the app at [Your Live URL Here] if you have already deployed it.
+You can run the app locally on your PC. Just follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/PranitThombare/Object_detection_application.git
+   cd Object_detection_application
 
 ## Requirements
 
