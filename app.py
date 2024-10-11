@@ -8,7 +8,7 @@ import uuid
 app = Flask(__name__)
 
 # Load YOLOv5 model
-model = torch.hub.load('ultralytics/yolov5', 'yolov5s')  # Load a pretrained model (recommended for testing)
+model = torch.hub.load('ultralytics/yolov5', 'yolov5x')  # Load a pretrained model (recommended for testing)
 
 # Set upload and result folder
 UPLOAD_FOLDER = 'static/uploads/'
